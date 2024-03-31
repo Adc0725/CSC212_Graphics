@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\User\Documents\PAU Notes\Year 2\Semester 2\CSC 212 Computer Graphics\Main.cpp(30,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\PAU Notes\Year 2\Semester 2\CSC 212 Computer Graphics\Main.cpp(30,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\PAU Notes\Year 2\Semester 2\CSC 212 Computer Graphics\Main.cpp(30,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\PAU Notes\Year 2\Semester 2\CSC 212 Computer Graphics\Main.cpp(30,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Pyramid_Pulse.vcxproj -> C:\GLP\Pyramid_Pulse\Debug\Pyramid_Pulse.exe
