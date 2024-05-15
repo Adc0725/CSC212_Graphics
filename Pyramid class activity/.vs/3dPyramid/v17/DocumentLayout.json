@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\YoutubeOpenGL 8 - Camera[1]\\Pyramid class activity\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\User\\Documents\\YoutubeOpenGL 8 - Camera[1]\\Pyramid class activity\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\stb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:stb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +32,53 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\YoutubeOpenGL 8 - Camera[1]\\Pyramid class activity\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\YoutubeOpenGL 8 - Camera[1]\\Pyramid class activity\\Main.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-13T22:57:02.58Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\Texture.cpp",
+              "RelativeDocumentMoniker": "Texture.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\Texture.cpp",
+              "RelativeToolTip": "Texture.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAArwCUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T13:46:39.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shaderClass.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\shaderClass.cpp",
+              "RelativeDocumentMoniker": "shaderClass.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\shaderClass.cpp",
+              "RelativeToolTip": "shaderClass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T13:35:04.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stb.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\stb.cpp",
+              "RelativeDocumentMoniker": "stb.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\stb.cpp",
+              "RelativeToolTip": "stb.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T13:35:02.798Z",
               "EditorCaption": ""
             }
           ]
