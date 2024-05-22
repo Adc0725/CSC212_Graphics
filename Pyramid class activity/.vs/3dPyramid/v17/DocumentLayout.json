@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\CSC212_Graphics\\Pyramid class activity\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGwAAAAsAAAA",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAGcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-13T22:57:02.58Z",
               "IsPinned": true,
@@ -52,8 +52,7 @@
               "RelativeToolTip": "Texture.cpp",
               "ViewState": "AQIAABYAAAAAAAAAAAArwCUAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-15T13:46:39.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T13:46:39.816Z"
             },
             {
               "$type": "Document",
@@ -65,8 +64,7 @@
               "RelativeToolTip": "shaderClass.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-15T13:35:04.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T13:35:04.188Z"
             },
             {
               "$type": "Document",
@@ -78,8 +76,7 @@
               "RelativeToolTip": "stb.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-15T13:35:02.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T13:35:02.798Z"
             }
           ]
         }
